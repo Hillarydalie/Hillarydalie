@@ -1,6 +1,6 @@
 ### Chào there 👋
-<h1 align="center">Hi 👋, I'm Hillary,</h1>
-<h2 align="right">but please, call me Dalie</h2>
+<h4 align="right">Hi 👋, I'm Hillary,</h4>
+<h6 align="center">I'd prefer Dalie </h6>
 How do you say hi in your locale?
 
 **Languages and Tools:**  
